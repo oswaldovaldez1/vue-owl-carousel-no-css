@@ -50,7 +50,7 @@
   "main": "dist/vue-owl-carousel.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/s950329/vue-owl-carousel.git"
+    "url": "git+https://github.com/oswaldovaldez1/vue-owl-carousel-no-css.git"
   },
   "scripts": {
     "build": "webpack --config ./webpack.config.js"
